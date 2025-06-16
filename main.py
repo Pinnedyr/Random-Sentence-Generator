@@ -20,7 +20,7 @@ def get_virtual_screen_size():
 
 
 def generate_sentences():
-    subjects = ["The cat", "A scientist", "A pinnedyr", "Fiskus", "Your friend", "The robot", "Fantorangen", "Someone", "An artist", "A dog", "This device", "The teacher", "Our neighbor"]
+    subjects = ["The cat", "A scientist", "A pinnedyr", "Diddy", "Kobi", "De Meikel", "Jones", "Anadrius", "Fiskus", "Your friend", "The robot", "Fantorangen", "Someone", "An artist", "A dog", "This device", "The teacher", "Our neighbor"]
     verbs = ["jumps", "busts", "writes", "calls", "explores", "questions", "sees", "builds", "knows", "finds", "observes"]
     objects = ["a mystery", "the stars", "an old book", "a strange sound", "an idea", "a door", "the future", "a plan", "a secret", "a river"]
     questions_starters = ["Why does", "How can", "When will", "Is it true that", "What if"]
